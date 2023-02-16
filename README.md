@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/nadimalid/order-summary-component-main)
-- Live Site URL: [live site URL](https://nadimalid.github.io/order-summary-component-main/)
+- Solution URL: [github.com/nadimalid/order-summary-component-main](https://github.com/nadimalid/order-summary-component-main)
+- Live Site URL: [nadimalid.github.io/order-summary-component-main/](https://nadimalid.github.io/order-summary-component-main/)
 
 ## My process
 
